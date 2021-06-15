@@ -1,2 +1,2 @@
 # prime-manager
-A script for managing aliases to run GPU intensive programs using nvidia 'prime-run'
+A script for managing aliases and .desktop files so GPU intensive programs are run using nvidia 'prime-run'
